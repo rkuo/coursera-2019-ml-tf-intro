@@ -171,7 +171,4 @@ Installed Kaggle with Colab. #MachineLearning/Kaggle, try some datasets later .
 
 Watch  
 - [Getting Started with TensorFlow and Deep Learning | SciPy 2018 Tutorial | Josh Gordon - YouTube](https://www.youtube.com/watch?v=tYYVSEHq-io)
-
-
-
-
+- [Tensorflow for Deep Learning Research - Lecture 2 - YouTube](https://www.youtube.com/watch?v=9kC836XhICU) and notes https://cs224d.stanford.edu/lectures/CS224d-Lecture7.pdf
